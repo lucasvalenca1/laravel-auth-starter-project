@@ -21,10 +21,9 @@ Employer Network is a Laravel-based application that demonstrates CRUD (Create, 
 
 ---
 
-## **Screenshots**
 
 ### **Employee List**
-![Employee List](screenshots/employee-list.png)
+![Employee List](screenshots/employee-list.png) (NINJA) 
 
 ### **Create New Employee**
 ![Create New Employee](screenshots/create-employee.png)
@@ -34,9 +33,8 @@ Employer Network is a Laravel-based application that demonstrates CRUD (Create, 
 ## **Installation**
 
 ### **1. Clone the Repository**
-git clone https://github.com/lucasvalenca1/employer-network.git
+git clone [https://github.com/lucasvalenca1/](https://github.com/lucasvalenca1/laravel-auth-starter-project)
 
-text
 
 ### **2. Install Dependencies**
 composer install
@@ -72,7 +70,7 @@ Access the app at: `http://127.0.0.1:8000`.
 ## **Usage**
 
 ### **1. View Employees**
-- Navigate to `/employers` to see all employees.
+- Navigate to `/employers` to see all employees. ( NINJA)
 
 ### **2. Create an Employee**
 - Go to `/employers/create`, fill out the form, and submit.
